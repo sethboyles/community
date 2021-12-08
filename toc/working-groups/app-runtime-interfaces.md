@@ -154,6 +154,10 @@ CAPI
 - https://github.com/cloudfoundry/cc-uploader
 - https://github.com/cloudfoundry/sync-integration-tests
 
+CAPI incubator
+- https://github.com/cloudfoundry/go-cf-api
+- https://github.com/cloudfoundry/go-cf-api-release
+
 CLI
 - https://github.com/cloudfoundry/cli
 - https://github.com/cloudfoundry/cli-i18n
